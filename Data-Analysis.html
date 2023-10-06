@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Colibro Tech | Data Analysis</title>
+    <meta property="og:title" content="Colibro Tech" />
+    <meta name="description" content="Venta de libros de ingenieria de datos, analisis de datos, data management,ciencia de datos">
+    <meta name="keywords" content=" ingenieria de datos, analisis de datos, data management,ciencia de datos">
+    <link rel="icon" href="./images/icon-web.png">
+    <link rel="stylesheet" href="./css/bootstrap/bootstrap.min.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css">
+    <link rel="stylesheet" href="./css/style.css">
+</head>
+<body>
+    <header class="header">
+        <nav class="navbar py-3 navbar-expand-lg fixed-top">
+                <div class="container">
+                    <a class="navbar-brand" href="index.html">
+                        <img class="img-fluid" src="./images/logo-web.svg" alt="logo-web"/>
+                    </a>
+                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></i></span>
+                    </button>
+                    <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
+                        <ul class="navbar-nav">
+                            <li class="nav-item">
+                                <a href="#home" class="nav-link fw-bold mx-2 fs-5 text-white rounded-3" onclick="closeNavbar()">Inicio</a>
+                            </li>
+                            <li class="nav-item">
+                                <a href="#about" class="nav-link fw-bold mx-2 fs-5 text-white rounded-3" onclick="closeNavbar()">Sobre Nosotros</a>
+                            </li>
+                            <li class="nav-item">
+                                <a href="#category" class="nav-link fw-bold mx-2 fs-5 text-white rounded-3" onclick="closeNavbar()">Categorias</a>
+                            </li>
+                            <li class="nav-item">
+                                <a href="#news" class="nav-link fw-bold mx-2 fs-5 text-white rounded-3" onclick="closeNavbar()">Novedades</a>
+                            </li>
+                            <li class="nav-item">
+                                <a href="#contacts" class="nav-link fw-bold activated mx-2 fs-5 text-white rounded-3" onclick="closeNavbar()"><i class="bi bi-person-circle pe-1"></i>Contactos</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </nav>
+    </header>
+    <main class="container contentBooks p-4">
+        <div class="go-back">
+            <a href="./index.html#category"><i class="bi bi-arrow-left-square-fill text-success fs-1"></i></a>
+        </div>
+        <div class="py-3 text-center">
+            <p class="fs-2 text-white">
+                Elige tu mejor <span class="text-danger">libro</span> y Cultiva tu Mente <span class="text-success">Analítica</span>
+            </p>
+        </div>
+        <section id="contenedorLibros" class="row"></section>
+    </main>
+    <footer class="pt-5 mt-5 text-center footer">
+        <div class="container mt-5">
+            <div class="row">
+                <div class="col-6 col-md-4 col-lg-4 mb-4 mb-md-0 footer-menu">
+                    <nav class="d-flex flex-column footer-menu">
+                        <a class="text-danger fw-bold text-decoration-none" href="#">Inicio</a>
+                        <a class="text-danger fw-bold text-decoration-none" href="#">Sobre Nosotros</a>
+                        <a class="text-danger fw-bold text-decoration-none" href="#">Categorías</a>
+                        <a class="text-danger fw-bold text-decoration-none" href="#">Novedades</a>
+                        <a class="text-danger fw-bold text-decoration-none" href="#">Políticas de privacidad</a>
+                    </nav>
+                </div>
+                 <div class="col-12 col-md-4 col-lg-4 mb-md-0 footer-contacts">
+                    <div class="logo-footer">
+                        <a class="link" href="./index.html"><img class="img-fluid" src="./images/logo-web.svg" alt="logo-web-footer"></a>
+                    </div>
+                    <p class="text-success my-1 fw-bold">Medellín</p>
+                    <nav class="d-flex flex-column">
+                        <a class="text-white text-decoration-none" href="#">Phone: <span class="fw-bold">+57 3273948475</span></a>
+                        <a class="text-white text-decoration-none" href="#">Email: <span class="fw-bold">info@example.com</span></a>
+                        <div class="pt-2">
+                            <a class="text-white text-decoration-none" href="#"><i class="bi bi-linkedin me-1 fs-4"></i></a>
+                            <a class="text-white text-decoration-none" href="#"><i class="bi bi-instagram fs-4"></i></a>
+                        </div>
+                    </nav>
+                </div>
+                <div class=" col-6 col-md-4 col-lg-4 mb-4 mb-md-0 footer-categorys">
+                    <nav class="d-flex flex-column footer-services">
+                        <a class="text-danger fw-bold text-decoration-none" href="#">Data Engineering</a>
+                        <a class="text-danger fw-bold text-decoration-none" href="#">Data Science</a>
+                        <a class="text-danger fw-bold text-decoration-none" href="#">Data Analysis</a>
+                        <a class="text-danger fw-bold text-decoration-none" href="#">Data Management</a>
+                    </nav>
+                </div>
+            </div>
+            <p class="col-12 mt-4 text-center fs-5 text-white">Todos los derechos Reservados. Colibro<a href="./index.html" class="fw-bold text-success">Tech</a></p>
+        </div>
+    </footer> 
+</body>
+<script src="./js/dataAnalysis.js" type="module"></script>
+<script src="./js/bootstrap/bootstrap.bundle.min.js"></script>
+</html>

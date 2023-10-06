@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Fundamentals of Data Engineering",
+    "author": "Joe Reis & Matt Housley",
+    "category": "Data Engineering",
+    "price": "$ 79.99",
+    "priceOffer": "$19.99",
+    "image":"./images/books/Data-Engineering/Fundamentals-of-Data-Engineering.jpg",
+    "description": "This authoritative guide provides a comprehensive overview of data warehousing concepts and best practices. It covers topics such as dimensional modeling, ETL (Extract, Transform, Load) processes, and data quality assurance. Whether you are designing a new data warehouse or maintaining an existing one, this book is an essential resource for data management professionals."
+  },
+  {
+    "title": "Kafka The Definitive Guide",
+    "author": "Gwen Shapira, Todd Palino, Rajini Sivaram & Krit Petty ",
+    "category": "Data Engineering",
+    "price": "$ 79.99",
+    "priceOffer": "$19.99",
+    "image":"./images/books/Data-Engineering/Kafka-The-Definite-Guide.jpg",
+    "description": "This authoritative guide provides a comprehensive overview of data warehousing concepts and best practices. It covers topics such as dimensional modeling, ETL (Extract, Transform, Load) processes, and data quality assurance. Whether you are designing a new data warehouse or maintaining an existing one, this book is an essential resource for data management professionals."
+  },
+   {
+    "title": "MongoDB The Definitive Guide",
+    "author": "Shannon Bradshaw, Eoin Brazil & Kristina Chodorow",
+    "category": "Data Engineering",
+    "price": "$ 79.99",
+    "priceOffer": "$19.99",
+    "image":"./images/books/Data-Engineering/MongoDB-The-Definitive-Guide.jpg",
+    "description": "This authoritative guide provides a comprehensive overview of data warehousing concepts and best practices. It covers topics such as dimensional modeling, ETL (Extract, Transform, Load) processes, and data quality assurance. Whether you are designing a new data warehouse or maintaining an existing one, this book is an essential resource for data management professionals."
+  },
+  {
+    "title": "Learning SQL",
+    "author": "Alan Beaulieu",
+    "category": "Data Analysis",
+    "price": "$65.99",
+    "priceOffer": "$19.99",
+    "image":"./images/books/Data-Analysis/Learning-SQL.jpeg",
+    "description": "This book focuses on how to apply data science techniques in a business context. Provides an introduction to key concepts and how to use them to make informed trading decisions."
+  }
+]

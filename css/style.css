@@ -1,0 +1,221 @@
+:root {
+    --color-primary: #110f1a;
+    --color-primary2: #c307f1;
+    --color-primary3: #08f362;
+}
+body{
+    background-color: var(--color-primary);
+    font-family: 'Roboto Condensed', sans-serif;
+}
+.navbar {
+    background: rgba(43, 42, 42, 0.2);
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px);
+}
+.navbar-brand .img-fluid,
+.logo-footer .img-fluid{
+    width: 3.5rem;
+}
+.navbar-toggler {
+    background-color: var(--color-primary3);
+}
+.nav-item .nav-link:hover,
+.nav-item .activated {
+    background: linear-gradient(81.02deg,
+            rgb(250, 85, 96) -23.47%,
+            rgb(177, 75, 244) 45.52%,
+            rgb(77, 145, 255) 114.8%);
+}
+.bi-check-all,
+.nav-link .bi-person-circle,
+.bi-geo-alt-fill,
+.bi-envelope-at,
+.bi-phone,
+.text-success {
+    color: var(--color-primary3) !important;
+}
+.hero {
+    height: 100vh;
+    background: linear-gradient(rgba(12, 11, 12, 0.8), 
+    rgba(0, 0, 0, 0.4)), 
+    url("../images/background-section-hero.jpg")
+    fixed center 0 / cover no-repeat;
+}
+.studio-tech .fw-bold { 
+    text-shadow: 2px 2px 0 #161616, 4px 4px 0 #9c9c9c;
+}
+.action-buttons .link {
+    background-color: var(--color-primary3);
+    transition: all .3s;
+}
+.action-buttons .link:hover {
+    opacity: .8;
+}
+.text-danger {
+    color: var(--color-primary2) !important; 
+}
+.section-title .text-success::after{
+    content: "";
+    width: 8rem;
+    height: .2rem;
+    display: inline-block;
+    background: var(--color-primary2);
+    margin: .25rem .63rem;
+}
+.border-danger {
+    border: 1px solid var(--color-primary2) !important;
+    transition: all .3s ease-in-out;
+}
+#category .list-group-item:hover {
+    transform: translateY(-1rem);
+    box-shadow: rgba(210, 210, 223, 0.2) 0px 7px 29px 0px;
+}
+.align-items-center .icon {
+    height: 4rem;
+    background: var(--color-primary3);
+}
+.box {
+    position: relative;
+}
+.ribbon {
+    position: absolute;
+    right: -5px;
+    top: -5px;
+    z-index: 1;
+    overflow: hidden;
+    width: 75px;
+    height: 75px;
+    text-align: right;
+}
+.ribbon span {
+    font-size: 10px;
+    text-transform: uppercase;
+    line-height: 20px;
+    transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+    width: 100px;
+    display: block;
+    background: red;
+    position: absolute;
+    top: 19px;
+    right: -21px;
+}
+.ribbon span::before {
+    content: "";
+    position: absolute;
+    left: 0px;
+    top: 100%;
+    z-index: -1;
+    border-left: 3px solid #e40606;
+    border-right: 3px solid transparent;
+    border-bottom: 3px solid transparent;
+    border-top: 3px solid #e40606;
+}
+.ribbon span::after {
+    content: "";
+    position: absolute;
+    right: 0px;
+    top: 100%;
+    z-index: -1;
+    border-left: 3px solid transparent;
+    border-right: 3px solid #e40606;
+    border-bottom: 3px solid transparent;
+    border-top: 3px solid #e40606;
+}
+.contact-information .border-danger:hover{
+    background: var(--color-primary2);
+    cursor: pointer;
+    border-radius: .5rem;
+}
+.footer{
+    background-color: #160118;
+}
+.footer .text-danger:hover{
+    background-color: var(--color-primary3);
+    border-radius: 1rem;
+    color: #fff !important;
+}
+.bi-linkedin {
+    color: #0881b9;
+}
+.bi-instagram {
+    color: #e90783;
+}
+.contentBooks{
+    margin-top: 10rem;
+}
+#contenedorLibros .card{
+    background-color: #12011a;
+    border: 1px solid var(--color-primary2);
+}
+.card-body .btn-card{
+    outline: none;
+    background-color: var(--color-primary3);
+    box-shadow: rgb(239, 240, 241) 0px 2px 80px -10px;
+    transition: .5s, color .10s;
+}
+.card-body .bg-btn,
+.card-body .bg-color-btn{
+    background-color: var(--color-primary2);
+}
+.card-body .btn-card:hover{
+    transform: scale3d(1.1, 1.1, 0.3);
+}
+@media (max-width: 767px) {
+    .action-buttons .link {
+        width: 18rem;
+        margin: .5rem 0;
+    }
+    #about,
+    #category,
+    #news,
+    #contacts{
+        padding-top: 0rem !important;
+    }
+    .image-about {
+        margin-top: 1.5rem;
+    }
+    #category .col-12 {
+        margin-top: 1rem;
+    }
+    .contact-information{
+        margin: 0;
+    }
+    .contact-information .border-danger{
+        border: 4px solid #000 !important;
+        background-color: var(--color-primary2);
+    }
+    .footer-menu{
+        order: 2;
+    }
+    .footer-contacts{
+        order: 1;
+        padding-bottom: 1.5rem;
+    }
+    .footer-categorys{
+        order: 3;
+    }
+    .contentBooks {
+        margin-top: 7.5rem;
+    }
+    #contenedorLibros .card{
+        margin-bottom: 2rem;
+    }
+    .card-body .btn {
+        margin-bottom: .8rem;
+        width: 100%;
+    }
+}
+@media (min-width: 768px) and (max-width:992px) {
+    .image-about {
+        margin-top: 1.6rem;
+    }
+    #category .col-12 {
+        margin-top: 1rem;
+    }
+    .card-body .btn {
+        margin-bottom: .8rem;
+        width: 100%;
+    }
+}
+
