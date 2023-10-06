@@ -1,6 +1,7 @@
 import { obtenerContenidoJSON } from './modulos/obtener-contenidoJSON.js';
 import { crearCardLibro, crearModalDetalles } from './modulos/crear-card-y-modal.js';
 
+
  async function cargarDatosYMostrarContenido() {
     try {
         const data = await obtenerContenidoJSON();
@@ -47,4 +48,3 @@ import { crearCardLibro, crearModalDetalles } from './modulos/crear-card-y-modal
     }
 }
 cargarDatosYMostrarContenido(); 
-

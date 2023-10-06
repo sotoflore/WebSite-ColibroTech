@@ -162,6 +162,9 @@ body{
     transform: scale3d(1.1, 1.1, 0.3);
 }
 @media (max-width: 767px) {
+    .nav-item .nav-link{
+        padding-left:  .5rem;
+    }
     .action-buttons .link {
         width: 18rem;
         margin: .5rem 0;
