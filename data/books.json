@@ -1,4 +1,12 @@
-[
+[ {
+    "title": "Learning SQL",
+    "author": "Alan Beaulieu",
+    "category": "Data Analysis",
+    "price": "$65.99",
+    "priceOffer": "$19.99",
+    "image":"./images/books/Data-Analysis/Learning-SQL.jpeg",
+    "description": "This book focuses on how to apply data science techniques in a business context. Provides an introduction to key concepts and how to use them to make informed trading decisions."
+  },
   {
     "title": "Data Analysis Python PySpark",
     "author": "Jonathan Rioux",
@@ -17,15 +25,6 @@
     "image":"./images/books/Data-Analysis/Learn-to-Write-DAX.jpeg",
     "description": "This book is a practical guide to data manipulation and analysis using the Python programming language. It covers topics such as data cleaning, data transformation, and data visualization using popular libraries like pandas and matplotlib. Whether you are a beginner or an experienced data scientist, this book will help you master the essentials of data analysis with Python."
   },
-   {
-    "title": "Learning SQL",
-    "author": "Alan Beaulieu",
-    "category": "Data Analysis",
-    "price": "$65.99",
-    "priceOffer": "$19.99",
-    "image":"./images/books/Data-Analysis/Learning-SQL.jpeg",
-    "description": "This book focuses on how to apply data science techniques in a business context. Provides an introduction to key concepts and how to use them to make informed trading decisions."
-  },
   {
     "title": "Power Pivot Power BI",
     "author": "Rob Collie & Avichal Sing",
@@ -34,6 +33,123 @@
     "priceOffer": "$19.99",
     "image":"./images/books/Data-Analysis/Power-Pivot-Power-BI.jpeg",
     "description": "This book is a friendly introduction to data science for beginners. It covers key concepts and techniques, and provides clear, understandable examples."
+  },
+  {
+    "title": "Fundamentals of Data Engineering",
+    "author": "Joe Reis & Matt Housley",
+    "category": "Data Engineering",
+    "price": "$ 79.99",
+    "priceOffer": "$19.99",
+    "image":"./images/books/Data-Engineering/Fundamentals-of-Data-Engineering.jpg",
+    "description": "This authoritative guide provides a comprehensive overview of data warehousing concepts and best practices. It covers topics such as dimensional modeling, ETL (Extract, Transform, Load) processes, and data quality assurance. Whether you are designing a new data warehouse or maintaining an existing one, this book is an essential resource for data management professionals."
+  },
+  {
+    "title": "MongoDB The Definitive Guide",
+    "author": "Shannon Bradshaw, Eoin Brazil & Kristina Chodorow",
+    "category": "Data Engineering",
+    "price": "$ 79.99",
+    "priceOffer": "$19.99",
+    "image":"./images/books/Data-Engineering/MongoDB-The-Definitive-Guide.jpg",
+    "description": "This authoritative guide provides a comprehensive overview of data warehousing concepts and best practices. It covers topics such as dimensional modeling, ETL (Extract, Transform, Load) processes, and data quality assurance. Whether you are designing a new data warehouse or maintaining an existing one, this book is an essential resource for data management professionals."
+  },
+  {
+    "title": "Kafka The Definitive Guide",
+    "author": "Gwen Shapira, Todd Palino, Rajini Sivaram & Krit Petty ",
+    "category": "Data Engineering",
+    "price": "$ 79.99",
+    "priceOffer": "$19.99",
+    "image":"./images/books/Data-Engineering/Kafka-The-Definite-Guide.jpg",
+    "description": "This authoritative guide provides a comprehensive overview of data warehousing concepts and best practices. It covers topics such as dimensional modeling, ETL (Extract, Transform, Load) processes, and data quality assurance. Whether you are designing a new data warehouse or maintaining an existing one, this book is an essential resource for data management professionals."
+  },
+  {
+    "title": "The Enterprise Big Data Lake",
+    "author": "Alex Gorelik",
+    "category": "Data Engineering",
+    "price": "$ 79.99",
+    "priceOffer": "$19.99",
+    "image":"./images/books/Data-Engineering/The-Enterprise-Big-Data-Lake.jpeg",
+    "description": "This authoritative guide provides a comprehensive overview of data warehousing concepts and best practices. It covers topics such as dimensional modeling, ETL (Extract, Transform, Load) processes, and data quality assurance. Whether you are designing a new data warehouse or maintaining an existing one, this book is an essential resource for data management professionals."
+  },
+  {
+    "title": "Spark The Definitive Guide",
+    "author": "Bill Chambers & Matei Zaharia",
+    "category": "Data Engineering",
+    "price": "$ 79.99",
+    "priceOffer": "$19.99",
+    "image":"./images/books/Data-Engineering/Spark-The-Definite-Guide.jpeg",
+    "description": "This authoritative guide provides a comprehensive overview of data warehousing concepts and best practices. It covers topics such as dimensional modeling, ETL (Extract, Transform, Load) processes, and data quality assurance. Whether you are designing a new data warehouse or maintaining an existing one, this book is an essential resource for data management professionals."
+  },
+    {
+    "title": "Hadoop The Definitive Guide",
+    "author": "Tom White",
+    "category": "Data Engineering",
+    "price": "$ 79.99",
+    "priceOffer": "$19.99",
+    "image":"./images/books/Data-Engineering/Hadoop-The-Definite-Guide.jpeg",
+    "description": "This authoritative guide provides a comprehensive overview of data warehousing concepts and best practices. It covers topics such as dimensional modeling, ETL (Extract, Transform, Load) processes, and data quality assurance. Whether you are designing a new data warehouse or maintaining an existing one, this book is an essential resource for data management professionals."
+  },
+  {
+    "title": "Learning Apache Drill",
+    "author": "Charles Givre & Paul Rogers",
+    "category": "Data Engineering",
+    "price": "$ 79.99",
+    "priceOffer": "$19.99",
+    "image":"./images/books/Data-Engineering/Learning-Apache-Drill.jpeg",
+    "description": "This authoritative guide provides a comprehensive overview of data warehousing concepts and best practices. It covers topics such as dimensional modeling, ETL (Extract, Transform, Load) processes, and data quality assurance. Whether you are designing a new data warehouse or maintaining an existing one, this book is an essential resource for data management professionals."
+  },
+  {
+    "title": "Data Pipelines with Apache Airflow",
+    "author": "Bas Harenslak, Julian de Ruiter",
+    "category": "Data Engineering",
+    "price": "$ 79.99",
+    "priceOffer": "$19.99",
+    "image":"./images/books/Data-Engineering/Data-Pipelines-with-Apache-Airflow.jpeg",
+    "description": "This authoritative guide provides a comprehensive overview of data warehousing concepts and best practices. It covers topics such as dimensional modeling, ETL (Extract, Transform, Load) processes, and data quality assurance. Whether you are designing a new data warehouse or maintaining an existing one, this book is an essential resource for data management professionals."
+  },
+  {
+    "title": "Data Algorithms with Spark",
+    "author": "Mahmoud Parsian",
+    "category": "Data Engineering",
+    "price": "$ 79.99",
+    "priceOffer": "$19.99",
+    "image":"./images/books/Data-Engineering/Data-Algorithms-with-Spark.jpeg",
+    "description": "This authoritative guide provides a comprehensive overview of data warehousing concepts and best practices. It covers topics such as dimensional modeling, ETL (Extract, Transform, Load) processes, and data quality assurance. Whether you are designing a new data warehouse or maintaining an existing one, this book is an essential resource for data management professionals."
+  },
+  {
+    "title": "Azure Storage, Streaming, and Batch Analytics",
+    "author": "Richard L. Nuckolls",
+    "category": "Data Engineering",
+    "price": "$ 79.99",
+    "priceOffer": "$19.99",
+    "image":"./images/books/Data-Engineering/Azure-Storage-Streaming-end-Batch-Analytics.jpeg",
+    "description": "This authoritative guide provides a comprehensive overview of data warehousing concepts and best practices. It covers topics such as dimensional modeling, ETL (Extract, Transform, Load) processes, and data quality assurance. Whether you are designing a new data warehouse or maintaining an existing one, this book is an essential resource for data management professionals."
+  },
+  {
+    "title": "Data Engineering with AWS",
+    "author": "Gareth Eagar",
+    "category": "Data Engineering",
+    "price": "$ 79.99",
+    "priceOffer": "$19.99",
+    "image":"./images/books/Data-Engineering/Data-Engineering-with-AWS.jpeg",
+    "description": "This authoritative guide provides a comprehensive overview of data warehousing concepts and best practices. It covers topics such as dimensional modeling, ETL (Extract, Transform, Load) processes, and data quality assurance. Whether you are designing a new data warehouse or maintaining an existing one, this book is an essential resource for data management professionals."
+  },
+  {
+    "title": "The Data Warehouse Toolkit",
+    "author": "Ralph Kimball & Margy Ross",
+    "category": "Data Engineering",
+    "price": "$ 79.99",
+    "priceOffer": "$19.99",
+    "image":"./images/books/Data-Engineering/The-Data-Warehounse-Toolkit.jpeg",
+    "description": "This authoritative guide provides a comprehensive overview of data warehousing concepts and best practices. It covers topics such as dimensional modeling, ETL (Extract, Transform, Load) processes, and data quality assurance. Whether you are designing a new data warehouse or maintaining an existing one, this book is an essential resource for data management professionals."
+  },
+  {
+    "title": "Production Kubernetes",
+    "author": "Josh Rosso, Rich Lander, Alexander Brand & John Harris",
+    "category": "Data Engineering",
+    "price": "$ 79.99",
+    "priceOffer": "$19.99",
+    "image":"./images/books/Data-Engineering/Production-Kubernetes.jpeg",
+    "description": "This authoritative guide provides a comprehensive overview of data warehousing concepts and best practices. It covers topics such as dimensional modeling, ETL (Extract, Transform, Load) processes, and data quality assurance. Whether you are designing a new data warehouse or maintaining an existing one, this book is an essential resource for data management professionals."
   },
   {
     "title": "Architecting Google Cloud Solutions",
@@ -53,42 +169,6 @@
     "image":"./images/books/Data-Engineering/Azure-Data-Factory-by-Example.jpeg",
     "description": "This authoritative guide provides a comprehensive overview of data warehousing concepts and best practices. It covers topics such as dimensional modeling, ETL (Extract, Transform, Load) processes, and data quality assurance. Whether you are designing a new data warehouse or maintaining an existing one, this book is an essential resource for data management professionals."
   },
-  {
-    "title": "Azure Storage, Streaming, and Batch Analytics",
-    "author": "Richard L. Nuckolls",
-    "category": "Data Engineering",
-    "price": "$ 79.99",
-    "priceOffer": "$19.99",
-    "image":"./images/books/Data-Engineering/Azure-Storage-Streaming-end-Batch-Analytics.jpeg",
-    "description": "This authoritative guide provides a comprehensive overview of data warehousing concepts and best practices. It covers topics such as dimensional modeling, ETL (Extract, Transform, Load) processes, and data quality assurance. Whether you are designing a new data warehouse or maintaining an existing one, this book is an essential resource for data management professionals."
-  },
-  {
-    "title": "Data Algorithms with Spark",
-    "author": "Mahmoud Parsian",
-    "category": "Data Engineering",
-    "price": "$ 79.99",
-    "priceOffer": "$19.99",
-    "image":"./images/books/Data-Engineering/Data-Algorithms-with-Spark.jpeg",
-    "description": "This authoritative guide provides a comprehensive overview of data warehousing concepts and best practices. It covers topics such as dimensional modeling, ETL (Extract, Transform, Load) processes, and data quality assurance. Whether you are designing a new data warehouse or maintaining an existing one, this book is an essential resource for data management professionals."
-  },
-  {
-    "title": "Data Engineering with AWS",
-    "author": "Gareth Eagar",
-    "category": "Data Engineering",
-    "price": "$ 79.99",
-    "priceOffer": "$19.99",
-    "image":"./images/books/Data-Engineering/Data-Engineering-with-AWS.jpeg",
-    "description": "This authoritative guide provides a comprehensive overview of data warehousing concepts and best practices. It covers topics such as dimensional modeling, ETL (Extract, Transform, Load) processes, and data quality assurance. Whether you are designing a new data warehouse or maintaining an existing one, this book is an essential resource for data management professionals."
-  },
-  {
-    "title": "Data Pipelines with Apache Airflow",
-    "author": "Bas Harenslak, Julian de Ruiter",
-    "category": "Data Engineering",
-    "price": "$ 79.99",
-    "priceOffer": "$19.99",
-    "image":"./images/books/Data-Engineering/Data-Pipelines-with-Apache-Airflow.jpeg",
-    "description": "This authoritative guide provides a comprehensive overview of data warehousing concepts and best practices. It covers topics such as dimensional modeling, ETL (Extract, Transform, Load) processes, and data quality assurance. Whether you are designing a new data warehouse or maintaining an existing one, this book is an essential resource for data management professionals."
-  },
    {
     "title": "Data Preprocessing in Python",
     "author": "Roy Jafari",
@@ -99,85 +179,13 @@
     "description": "This authoritative guide provides a comprehensive overview of data warehousing concepts and best practices. It covers topics such as dimensional modeling, ETL (Extract, Transform, Load) processes, and data quality assurance. Whether you are designing a new data warehouse or maintaining an existing one, this book is an essential resource for data management professionals."
   },
   {
-    "title": "Fundamentals of Data Engineering",
-    "author": "Joe Reis & Matt Housley",
-    "category": "Data Engineering",
-    "price": "$ 79.99",
+    "title": "Designing Data Intensive Applications",
+    "author": "Martin Kleppmann",
+    "category": "Data Management",
+    "price": "$ 39.99",
     "priceOffer": "$19.99",
-    "image":"./images/books/Data-Engineering/Fundamentals-of-Data-Engineering.jpg",
-    "description": "This authoritative guide provides a comprehensive overview of data warehousing concepts and best practices. It covers topics such as dimensional modeling, ETL (Extract, Transform, Load) processes, and data quality assurance. Whether you are designing a new data warehouse or maintaining an existing one, this book is an essential resource for data management professionals."
-  },
-  {
-    "title": "Hadoop The Definitive Guide",
-    "author": "Tom White",
-    "category": "Data Engineering",
-    "price": "$ 79.99",
-    "priceOffer": "$19.99",
-    "image":"./images/books/Data-Engineering/Hadoop-The-Definite-Guide.jpeg",
-    "description": "This authoritative guide provides a comprehensive overview of data warehousing concepts and best practices. It covers topics such as dimensional modeling, ETL (Extract, Transform, Load) processes, and data quality assurance. Whether you are designing a new data warehouse or maintaining an existing one, this book is an essential resource for data management professionals."
-  },
-  {
-    "title": "Kafka The Definitive Guide",
-    "author": "Gwen Shapira, Todd Palino, Rajini Sivaram & Krit Petty ",
-    "category": "Data Engineering",
-    "price": "$ 79.99",
-    "priceOffer": "$19.99",
-    "image":"./images/books/Data-Engineering/Kafka-The-Definite-Guide.jpg",
-    "description": "This authoritative guide provides a comprehensive overview of data warehousing concepts and best practices. It covers topics such as dimensional modeling, ETL (Extract, Transform, Load) processes, and data quality assurance. Whether you are designing a new data warehouse or maintaining an existing one, this book is an essential resource for data management professionals."
-  },
-   {
-    "title": "Learning Apache Drill",
-    "author": "Charles Givre & Paul Rogers",
-    "category": "Data Engineering",
-    "price": "$ 79.99",
-    "priceOffer": "$19.99",
-    "image":"./images/books/Data-Engineering/Learning-Apache-Drill.jpeg",
-    "description": "This authoritative guide provides a comprehensive overview of data warehousing concepts and best practices. It covers topics such as dimensional modeling, ETL (Extract, Transform, Load) processes, and data quality assurance. Whether you are designing a new data warehouse or maintaining an existing one, this book is an essential resource for data management professionals."
-  },
-  {
-    "title": "MongoDB The Definitive Guide",
-    "author": "Shannon Bradshaw, Eoin Brazil & Kristina Chodorow",
-    "category": "Data Engineering",
-    "price": "$ 79.99",
-    "priceOffer": "$19.99",
-    "image":"./images/books/Data-Engineering/MongoDB-The-Definitive-Guide.jpg",
-    "description": "This authoritative guide provides a comprehensive overview of data warehousing concepts and best practices. It covers topics such as dimensional modeling, ETL (Extract, Transform, Load) processes, and data quality assurance. Whether you are designing a new data warehouse or maintaining an existing one, this book is an essential resource for data management professionals."
-  },
-  {
-    "title": "Production Kubernetes",
-    "author": "Josh Rosso, Rich Lander, Alexander Brand & John Harris",
-    "category": "Data Engineering",
-    "price": "$ 79.99",
-    "priceOffer": "$19.99",
-    "image":"./images/books/Data-Engineering/Production-Kubernetes.jpeg",
-    "description": "This authoritative guide provides a comprehensive overview of data warehousing concepts and best practices. It covers topics such as dimensional modeling, ETL (Extract, Transform, Load) processes, and data quality assurance. Whether you are designing a new data warehouse or maintaining an existing one, this book is an essential resource for data management professionals."
-  },
-  {
-    "title": "Spark The Definitive Guide",
-    "author": "Bill Chambers & Matei Zaharia",
-    "category": "Data Engineering",
-    "price": "$ 79.99",
-    "priceOffer": "$19.99",
-    "image":"./images/books/Data-Engineering/Spark-The-Definite-Guide.jpeg",
-    "description": "This authoritative guide provides a comprehensive overview of data warehousing concepts and best practices. It covers topics such as dimensional modeling, ETL (Extract, Transform, Load) processes, and data quality assurance. Whether you are designing a new data warehouse or maintaining an existing one, this book is an essential resource for data management professionals."
-  },
-  {
-    "title": "The Data Warehouse Toolkit",
-    "author": "Ralph Kimball & Margy Ross",
-    "category": "Data Engineering",
-    "price": "$ 79.99",
-    "priceOffer": "$19.99",
-    "image":"./images/books/Data-Engineering/The-Data-Warehounse-Toolkit.jpeg",
-    "description": "This authoritative guide provides a comprehensive overview of data warehousing concepts and best practices. It covers topics such as dimensional modeling, ETL (Extract, Transform, Load) processes, and data quality assurance. Whether you are designing a new data warehouse or maintaining an existing one, this book is an essential resource for data management professionals."
-  },
-  {
-    "title": "The Enterprise Big Data Lake",
-    "author": "Alex Gorelik",
-    "category": "Data Engineering",
-    "price": "$ 79.99",
-    "priceOffer": "$19.99",
-    "image":"./images/books/Data-Engineering/The-Enterprise-Big-Data-Lake.jpeg",
-    "description": "This authoritative guide provides a comprehensive overview of data warehousing concepts and best practices. It covers topics such as dimensional modeling, ETL (Extract, Transform, Load) processes, and data quality assurance. Whether you are designing a new data warehouse or maintaining an existing one, this book is an essential resource for data management professionals."
+    "image":"./images/books/Data-Management/Designing-Data-Intensive-Applications.jpeg",
+    "description": "This book is a comprehensive guide to Apache Hadoop, an open-source framework for distributed storage and processing of large datasets. It covers topics such as Hadoop architecture, MapReduce programming, and Hadoop ecosystem tools. Whether you are a data engineer or a software developer, this book will help you master the fundamentals of big data processing with Hadoop."
   },
   {
     "title": "Dama Dmbok",
@@ -187,15 +195,6 @@
     "priceOffer": "$19.99",
     "image":"./images/books/Data-Management/Dama-Dmbok.jpeg",
     "description": "This book provides an accessible introduction to data management, covering topics such as data quality, data governance, and best practices in information management."
-  },
-  {
-    "title": "Designing Data Intensive Applications",
-    "author": "Martin Kleppmann",
-    "category": "Data Management",
-    "price": "$ 39.99",
-    "priceOffer": "$19.99",
-    "image":"./images/books/Data-Management/Designing-Data-Intensive-Applications.jpeg",
-    "description": "This book is a comprehensive guide to Apache Hadoop, an open-source framework for distributed storage and processing of large datasets. It covers topics such as Hadoop architecture, MapReduce programming, and Hadoop ecosystem tools. Whether you are a data engineer or a software developer, this book will help you master the fundamentals of big data processing with Hadoop."
   },
   {
     "title": "Data Science from Scratch",
@@ -216,21 +215,21 @@
     "description": "This book focuses on data analysis in the context of life sciences using the R programming language. It covers statistical techniques and data analysis relevant to researchers in biology and genomics."
   },
   {
-    "title": "Engineering MLOps",
-    "author": "Emmanuel Raj",
-    "category": "Data Science",
-    "price": "$ 80.99",
-    "priceOffer": "$10.99",
-    "image":"./images/books/Data-Science/Engineering-MLOps.jpeg",
-    "description": "This book focuses on data analysis in the context of life sciences using the R programming language. It covers statistical techniques and data analysis relevant to researchers in biology and genomics."
-  },
-  {
     "title": "Introducing MLOps",
     "author": "Mark Treveil & the Dataiku Team",
     "category": "Data Science",
     "price": "$ 80.99",
     "priceOffer": "$10.99",
     "image":"./images/books/Data-Science/Introducing-MLOps.jpeg",
+    "description": "This book focuses on data analysis in the context of life sciences using the R programming language. It covers statistical techniques and data analysis relevant to researchers in biology and genomics."
+  },
+  {
+    "title": "Engineering MLOps",
+    "author": "Emmanuel Raj",
+    "category": "Data Science",
+    "price": "$ 80.99",
+    "priceOffer": "$10.99",
+    "image":"./images/books/Data-Science/Engineering-MLOps.jpeg",
     "description": "This book focuses on data analysis in the context of life sciences using the R programming language. It covers statistical techniques and data analysis relevant to researchers in biology and genomics."
   },
   {
