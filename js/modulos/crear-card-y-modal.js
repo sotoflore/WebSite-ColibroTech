@@ -42,7 +42,7 @@ export function crearCardLibro(elemento) {
     return cardBook;
 }
 export function crearModalDetalles(elemento) {
-    const { image, title, priceOffer, category, description, author } = elemento;
+    const { image, title,idioma, priceOffer, category, description, author } = elemento;
     const modal = document.createElement('div');
     modal.classList.add('modal', 'fade');
     modal.id = `modal-${title.replace(/ /g, '-')}`;
@@ -61,7 +61,8 @@ export function crearModalDetalles(elemento) {
                     <img src="${image}" class="img-fluid card-img-top">
                     <h5 class="mt-3"><span class="fw-bold">Categoría</span>: ${category}</h5>
                     <h5><span class="fw-bold">Autor</span>: ${author}</h5>
-                    <p><span class="fw-bold">Descripción</span><br> ${description}</p>
+                    <h5><span class="fw-bold">Idioma</span>: ${idioma}</h5>
+                    <p class="paragraph-description-book"><span class="fw-bold">Descripción</span><br> ${description}</p>
                     <p class="fw-bold">Precio oferta <span class="bg-danger text-white p-2 rounded"> ${priceOffer}</span></p>
                      <a href="https://wa.me/3127393740?text=Hola, Deseo adquirir este libro de ${title}" class="btn btn-success border-0 w-100 fw-bold" target="_blank" rel="noopener noreferrer">Comprar &#128722</a>                           
                 </div>

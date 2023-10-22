@@ -62,6 +62,14 @@ body{
     background: var(--color-primary2);
     margin: .25rem .63rem;
 }
+.paragraph-about,
+.paragraph-description-book{
+    text-align: justify;
+}
+ .image-about{
+    aspect-ratio: 1/.85;
+    object-fit: cover;
+} 
 .border-danger {
     border: 1px solid var(--color-primary2) !important;
     transition: all .3s ease-in-out;

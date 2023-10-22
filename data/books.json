@@ -1,244 +1,251 @@
 [ {
     "title": "Learning SQL",
     "author": "Alan Beaulieu",
+    "idioma":"Inglés",
     "category": "Data Analysis",
-    "price": "$65.99",
-    "priceOffer": "$19.99",
+    "price": "$139.900",
+    "priceOffer": "$109.900",
     "image":"./images/books/Data-Analysis/Learning-SQL.jpeg",
-    "description": "This book focuses on how to apply data science techniques in a business context. Provides an introduction to key concepts and how to use them to make informed trading decisions."
+    "description": "A medida que los datos inundan tu empresa, necesitas ponerlos a trabajar de inmediato, y SQL es la mejor herramienta para el trabajo. Con la última edición de esta guía introductoria, el autor Alan Beaulieu ayuda a los desarrolladores a ponerse al día con los fundamentos de SQL para escribir aplicaciones de bases de datos, realizar tareas administrativas y generar informes. Encontrarás nuevos capítulos sobre SQL y big data, funciones analíticas y trabajar con bases de datos muy grandes."
   },
   {
     "title": "Data Analysis Python PySpark",
     "author": "Jonathan Rioux",
+    "idioma":"Inglés",
     "category": "Data Analysis",
-    "price": "$29.95",
-    "priceOffer": "$19.99",
+    "price": "$199.900",
+    "priceOffer": "$149.900",
     "image":"./images/books/Data-Analysis/Data-Analysis-Python-PySpark.jpeg",
-    "description": "Written by renowned data science experts, this book provides a comprehensive introduction to the principles and techniques of data science in the business context. It covers topics such as data analysis, machine learning, and data visualization, with a focus on applying these techniques to solve real-world business problems."
+    "description": "En 'Data Analysis Python PySpark' aprenderás a: Administrar tus datos a medida que se escalan a través de múltiples máquinas, Ampliar tus programas de datos con plena confianza, Leer y escribir datos desde y hacia una variedad de fuentes y formatos,Trabajar con datos desordenados utilizando la funcionalidad de manipulación de datos de PySpark, Descubrir nuevos conjuntos de datos y realizar análisis de datos exploratorios, Crear pipelines de datos automatizadas que transformen, resuman y obtengan información de los datos, Solucionar errores comunes de PySpark,Crear jobs confiables y de larga duración."
   },
   {
     "title": "Learn to Write DAX",
     "author": "Matt Allington",
+    "idioma":"Inglés",
     "category": "Data Analysis",
-    "price": "$49.99",
-    "priceOffer": "$19.99",
+    "price": "$69.900",
+    "priceOffer": "$47.900",
     "image":"./images/books/Data-Analysis/Learn-to-Write-DAX.jpeg",
-    "description": "This book is a practical guide to data manipulation and analysis using the Python programming language. It covers topics such as data cleaning, data transformation, and data visualization using popular libraries like pandas and matplotlib. Whether you are a beginner or an experienced data scientist, this book will help you master the essentials of data analysis with Python."
+    "description": "Data analysis expressions (DAX) es el lenguaje de fórmulas de PowerPivot & Power BI, y este libro está escrito para brindar hands-on práctica a cualquier persona que desee ser competente en la escritura de dichas fórmulas. Se proporcionan ejercicios de muestra que explican cada concepto, seguidos de preguntas de práctica y respuestas para maximizar el aprendizaje y la experiencia con DAX."
   },
   {
     "title": "Power Pivot Power BI",
     "author": "Rob Collie & Avichal Sing",
+    "idioma":"Inglés",
     "category": "Data Analysis",
-    "price": "$69.99",
-    "priceOffer": "$19.99",
+    "price": "$99.900",
+    "priceOffer": "$79.900",
     "image":"./images/books/Data-Analysis/Power-Pivot-Power-BI.jpeg",
-    "description": "This book is a friendly introduction to data science for beginners. It covers key concepts and techniques, and provides clear, understandable examples."
+    "description": "Este libro es el primero en abordar las fórmulas de DAX, la capacidad central de PowerPivot y Power BI, desde la perspectiva del público de Excel. Escrito por el blogger y practicante de PowerPivot más destacado del mundo, los conceptos y enfoques del libro se presentan de manera gradual, adaptada al estilo de aprendizaje de los usuarios de Excel en todas partes. Las técnicas presentadas permiten a los usuarios producir, en horas o incluso minutos, resultados que anteriormente habrían requerido semanas o meses de trabajo de equipos enteros."
   },
   {
     "title": "Fundamentals of Data Engineering",
     "author": "Joe Reis & Matt Housley",
+    "idioma":"Inglés",
     "category": "Data Engineering",
-    "price": "$ 79.99",
-    "priceOffer": "$19.99",
+    "price": "$189.900",
+    "priceOffer": "$139.900",
     "image":"./images/books/Data-Engineering/Fundamentals-of-Data-Engineering.jpg",
-    "description": "This authoritative guide provides a comprehensive overview of data warehousing concepts and best practices. It covers topics such as dimensional modeling, ETL (Extract, Transform, Load) processes, and data quality assurance. Whether you are designing a new data warehouse or maintaining an existing one, this book is an essential resource for data management professionals."
+    "description": "'Fundamentals Of Data Engineering' es una joya educativa de O'Reilly que te guiará a través de los principios esenciales de la ingeniería de datos. Aprende a dominar las herramientas y técnicas necesarias para administrar y aprovechar al máximo los datos en un mundo impulsado por la información. Este libro te equipa con los conocimientos y las habilidades que necesitas para sobresalir en el emocionante campo de la ingeniería de datos. ¡Prepárate para impulsar tu carrera y convertirte en un experto en la gestión y procesamiento de datos!"
   },
   {
-    "title": "MongoDB The Definitive Guide",
-    "author": "Shannon Bradshaw, Eoin Brazil & Kristina Chodorow",
+    "title": "Delta Lake The Definitive Guide",
+    "author": "Denny Lee, Tathagata Das & Vini Jaiswal",
+    "idioma":"Inglés",
     "category": "Data Engineering",
-    "price": "$ 79.99",
-    "priceOffer": "$19.99",
-    "image":"./images/books/Data-Engineering/MongoDB-The-Definitive-Guide.jpg",
-    "description": "This authoritative guide provides a comprehensive overview of data warehousing concepts and best practices. It covers topics such as dimensional modeling, ETL (Extract, Transform, Load) processes, and data quality assurance. Whether you are designing a new data warehouse or maintaining an existing one, this book is an essential resource for data management professionals."
-  },
-  {
-    "title": "Kafka The Definitive Guide",
-    "author": "Gwen Shapira, Todd Palino, Rajini Sivaram & Krit Petty ",
-    "category": "Data Engineering",
-    "price": "$ 79.99",
-    "priceOffer": "$19.99",
-    "image":"./images/books/Data-Engineering/Kafka-The-Definite-Guide.jpg",
-    "description": "This authoritative guide provides a comprehensive overview of data warehousing concepts and best practices. It covers topics such as dimensional modeling, ETL (Extract, Transform, Load) processes, and data quality assurance. Whether you are designing a new data warehouse or maintaining an existing one, this book is an essential resource for data management professionals."
+    "price": "$99.900",
+    "priceOffer": "$69.900",
+    "image":"./images/books/Data-Engineering/Delta-Lake-The-Definitive-Guide.jpeg",
+    "description": "Para un profesional de los datos, el objetivo final al construir pipelines es consultar eficientemente los datos procesados y obtener información de ellos. Para que una consulta sea eficiente, los datos procesados deben almacenarse en un formato y sistema de almacenamiento de manera que el motor de consulta pueda leer eficientemente los datos necesarios (preferiblemente en su mínima cantidad) para calcular el resultado de la consulta. Además, los datos casi nunca son estáticos; deben agregarse, actualizarse, corregirse y eliminarse continuamente cuando sea necesario. Es importante que el sistema de almacenamiento y el motor de procesamiento puedan trabajar juntos para proporcionar atomicidad transaccional en la calidad del resultado final, a pesar de todas las operaciones de lectura y escritura (posiblemente concurrentes) en los datos. Delta Lake es una capa de almacenamiento de código abierto que aporta transacciones ACID a Apache Spark™ y cargas de trabajo de big data. Con Delta Lake proporcionando atomicidad transaccional para tus datos, esto te permite, como profesional de datos, centrarte únicamente en la construcción de tus tuberías de procesamiento de datos al expresar el procesamiento."
   },
   {
     "title": "The Enterprise Big Data Lake",
     "author": "Alex Gorelik",
+    "idioma":"Inglés",
     "category": "Data Engineering",
-    "price": "$ 79.99",
-    "priceOffer": "$19.99",
+    "price": "$129.900",
+    "priceOffer": "$89.900",
     "image":"./images/books/Data-Engineering/The-Enterprise-Big-Data-Lake.jpeg",
-    "description": "This authoritative guide provides a comprehensive overview of data warehousing concepts and best practices. It covers topics such as dimensional modeling, ETL (Extract, Transform, Load) processes, and data quality assurance. Whether you are designing a new data warehouse or maintaining an existing one, this book is an essential resource for data management professionals."
+    "description": "El Data Lake es un enfoque audaz para aprovechar el poder de la tecnología de big data y proporcionar capacidades convenientes de autoservicio. Pero, ¿es adecuado para tu empresa? Este libro se basa en conversaciones con profesionales y ejecutivos de más de cien organizaciones, que van desde empresas impulsadas por datos como Google, LinkedIn y Facebook, hasta gobiernos y empresas corporativas tradicionales. Aprenderás qué es un Data Lake, por qué las empresas necesitan uno y cómo construirlo con éxito siguiendo las mejores prácticas de este libro."
   },
   {
     "title": "Spark The Definitive Guide",
     "author": "Bill Chambers & Matei Zaharia",
+    "idioma":"Inglés",
     "category": "Data Engineering",
-    "price": "$ 79.99",
-    "priceOffer": "$19.99",
+    "price": "$169.900",
+    "priceOffer": "$129.900",
     "image":"./images/books/Data-Engineering/Spark-The-Definite-Guide.jpeg",
-    "description": "This authoritative guide provides a comprehensive overview of data warehousing concepts and best practices. It covers topics such as dimensional modeling, ETL (Extract, Transform, Load) processes, and data quality assurance. Whether you are designing a new data warehouse or maintaining an existing one, this book is an essential resource for data management professionals."
+    "description": "Aprende cómo utilizar, implementar y mantener Apache Spark con esta guía completa, con énfasis en las mejoras y nuevas características en Spark 2.0. En este libro exploraras las operaciones básicas y las funciones comunes de las API estructuradas de Spark, así como Structured Streaming, una nueva API de alto nivel para crear aplicaciones de transmisión de un extremo a otro. Los ingenieros, científicos de datos y administradores de sistemas aprenderán los fundamentos de monitoreo, ajuste y depuración de Spark, y explorarán técnicas y escenarios de aprendizaje automático para emplear MLlib, la biblioteca escalable de aprendizaje automático de Spark."
   },
     {
     "title": "Hadoop The Definitive Guide",
     "author": "Tom White",
+    "idioma":"Inglés",
     "category": "Data Engineering",
-    "price": "$ 79.99",
-    "priceOffer": "$19.99",
+    "price": "$149.900",
+    "priceOffer": "$119.900",
     "image":"./images/books/Data-Engineering/Hadoop-The-Definite-Guide.jpeg",
-    "description": "This authoritative guide provides a comprehensive overview of data warehousing concepts and best practices. It covers topics such as dimensional modeling, ETL (Extract, Transform, Load) processes, and data quality assurance. Whether you are designing a new data warehouse or maintaining an existing one, this book is an essential resource for data management professionals."
+    "description": "Prepárate para desbloquear el poder de tus datos. Con la cuarta edición de esta guía completa, aprenderás cómo construir y mantener sistemas confiables, escalables y distribuidos con Apache Hadoop. Este libro es ideal para programadores que deseen analizar conjuntos de datos de cualquier tamaño y para administradores que quieran configurar y gestionar clústeres de Hadoop. Utilizando exclusivamente Hadoop 2, el autor Tom White presenta nuevos capítulos sobre YARN y varios proyectos relacionados con Hadoop, como Parquet, Flume, Crunch y Spark. Conocerás los cambios recientes en Hadoop y explorarás nuevos estudios de caso sobre el papel de Hadoop en sistemas de atención médica y el procesamiento de datos genómicos."
   },
   {
     "title": "Learning Apache Drill",
     "author": "Charles Givre & Paul Rogers",
+    "idioma":"Inglés",
     "category": "Data Engineering",
-    "price": "$ 79.99",
-    "priceOffer": "$19.99",
+    "price": "$99.900",
+    "priceOffer": "$69.900",
     "image":"./images/books/Data-Engineering/Learning-Apache-Drill.jpeg",
-    "description": "This authoritative guide provides a comprehensive overview of data warehousing concepts and best practices. It covers topics such as dimensional modeling, ETL (Extract, Transform, Load) processes, and data quality assurance. Whether you are designing a new data warehouse or maintaining an existing one, this book is an essential resource for data management professionals."
+    "description": "Ponte al día con Apache Drill, un motor de consulta SQL distribuido y extensible que lee conjuntos de datos masivos en muchos formatos populares de archivos como Parquet, JSON y CSV. Drill lee datos en HDFS o en almacenamiento nativo de la nube, como S3, y funciona con metastores Hive junto con bases de datos distribuidas como HBase, MongoDB y bases de datos relacionales. Drill funciona en todas partes: en tu computadora portátil o en tu clúster más grande. En este libro práctico, los colaboradores de Drill, Charles Givre y Paul Rogers, muestran a analistas, ingenieros y científicos de datos cómo consultar y analizar datos en bruto utilizando esta poderosa herramienta. Los científicos de datos pasan aproximadamente el 80% de su tiempo recolectando y limpiando datos. Con este libro, aprenderás cómo Drill te ayuda a analizar datos de manera más efectiva para acelerar el tiempo necesario para obtener información."
   },
   {
     "title": "Data Pipelines with Apache Airflow",
     "author": "Bas Harenslak, Julian de Ruiter",
+    "idioma":"Inglés",
     "category": "Data Engineering",
-    "price": "$ 79.99",
-    "priceOffer": "$19.99",
+    "price": "$199.900",
+    "priceOffer": "$139.900",
     "image":"./images/books/Data-Engineering/Data-Pipelines-with-Apache-Airflow.jpeg",
-    "description": "This authoritative guide provides a comprehensive overview of data warehousing concepts and best practices. It covers topics such as dimensional modeling, ETL (Extract, Transform, Load) processes, and data quality assurance. Whether you are designing a new data warehouse or maintaining an existing one, this book is an essential resource for data management professionals."
+    "description": "'Data Pipelines with Apache Airflow' te enseña cómo construir y mantener eficaces tuberías de datos. Explorarás los patrones de uso más comunes, que incluyen la agregación de múltiples fuentes de datos, la conexión desde y hacia los almacenes de datos, y la implementación en la nube. Parte referencia y parte tutorial, esta guía práctica aborda todos los aspectos de los directed acyclic graphs (DAGs) que impulsan Airflow y cómo personalizarlos según las necesidades de tu pipeline de datos."
   },
   {
     "title": "Data Algorithms with Spark",
     "author": "Mahmoud Parsian",
+    "idioma":"Inglés",
     "category": "Data Engineering",
-    "price": "$ 79.99",
-    "priceOffer": "$19.99",
+    "price": "$179.900",
+    "priceOffer": "$129.900",
     "image":"./images/books/Data-Engineering/Data-Algorithms-with-Spark.jpeg",
-    "description": "This authoritative guide provides a comprehensive overview of data warehousing concepts and best practices. It covers topics such as dimensional modeling, ETL (Extract, Transform, Load) processes, and data quality assurance. Whether you are designing a new data warehouse or maintaining an existing one, this book is an essential resource for data management professionals."
+    "description": "La velocidad de Apache Spark, su facilidad de uso, análisis sofisticados y soporte multilingüe hacen del conocimiento práctico de este framework una habilidad fundamental para los ingenieros de datos y científicos de datos. Con esta guía práctica, cualquier persona que busque una introducción a Spark aprenderá algoritmos prácticos y ejemplos utilizando PySpark. En cada capítulo, el autor Mahmoud Parsian te muestra cómo resolver un problema de datos con un conjunto de transformaciones y algoritmos de Spark. Aprenderás a abordar problemas relacionados con ETL, patrones de diseño, algoritmos de aprendizaje automático, particionamiento de datos y análisis genómico. Cada receta detallada incluye algoritmos de PySpark utilizando el controlador y el script de la shell de PySpark."
   },
   {
     "title": "Azure Storage, Streaming, and Batch Analytics",
     "author": "Richard L. Nuckolls",
+    "idioma":"Inglés",
     "category": "Data Engineering",
-    "price": "$ 79.99",
-    "priceOffer": "$19.99",
+    "price": "$149.900",
+    "priceOffer": "$119.900",
     "image":"./images/books/Data-Engineering/Azure-Storage-Streaming-end-Batch-Analytics.jpeg",
-    "description": "This authoritative guide provides a comprehensive overview of data warehousing concepts and best practices. It covers topics such as dimensional modeling, ETL (Extract, Transform, Load) processes, and data quality assurance. Whether you are designing a new data warehouse or maintaining an existing one, this book is an essential resource for data management professionals."
+    "description": "Azure Storage, Streaming, and Batch Analytics te muestra cómo construir soluciones de datos de última generación con herramientas de la plataforma Microsoft Azure. Acompáñanos para construir un data warehouse nativo de la nube, agregando características como el procesamiento de datos en tiempo real. Basado en la arquitectura Lambda para big data, el diseño utiliza servicios escalables como Event Hubs, Stream Analytics y bases de datos SQL. En el camino, abordarás la mayoría de los temas necesarios para obtener una certificación de ingeniería de datos en Azure."
   },
   {
     "title": "Data Engineering with AWS",
     "author": "Gareth Eagar",
+    "idioma":"Inglés",
     "category": "Data Engineering",
-    "price": "$ 79.99",
-    "priceOffer": "$19.99",
+    "price": "$199.900",
+    "priceOffer": "$149.900",
     "image":"./images/books/Data-Engineering/Data-Engineering-with-AWS.jpeg",
-    "description": "This authoritative guide provides a comprehensive overview of data warehousing concepts and best practices. It covers topics such as dimensional modeling, ETL (Extract, Transform, Load) processes, and data quality assurance. Whether you are designing a new data warehouse or maintaining an existing one, this book is an essential resource for data management professionals."
+    "description": "'Data Engineering for AWS' es un libro cuyo único objetivo es hacerte competente en el uso del ecosistema de AWS. A través de un enfoque exhaustivo y práctico de los datos, este libro proporcionará a aspirantes y nuevos ingenieros de datos una base teórica y práctica sólida para tener éxito con AWS. A medida que avanzas, se te guiará a través de los servicios y las habilidades que necesitas para diseñar e implementar pipelines de datos en AWS. Comenzarás revisando conceptos importantes de ingeniería de datos y algunos de los servicios centrales de AWS que forman parte de las herramientas del ingeniero de datos. Luego, diseñarás una pipeline de datos, revisarás fuentes de datos en bruto, transformarás los datos y aprenderás cómo los analistas de datos utilizan los datos transformados. También aprenderás sobre la población de data marts y data warehouse, así como la función de un data lakehouse en el panorama. Más adelante, te presentarán herramientas de AWS para analizar datos, incluyendo las destinadas a consultas SQL ad hoc y la creación de visualizaciones. En los capítulos finales, comprenderás cómo se puede utilizar el poder del aprendizaje automático e inteligencia artificial para obtener nuevas ideas a partir de los datos. Al final de este libro sobre AWS, serás capaz de realizar tareas de ingeniería de datos e implementar un pipeline de datos en AWS de forma independiente."
   },
   {
     "title": "The Data Warehouse Toolkit",
     "author": "Ralph Kimball & Margy Ross",
+    "idioma":"Inglés",
     "category": "Data Engineering",
-    "price": "$ 79.99",
-    "priceOffer": "$19.99",
+    "price": "$215.900",
+    "priceOffer": "$159.900",
     "image":"./images/books/Data-Engineering/The-Data-Warehounse-Toolkit.jpeg",
-    "description": "This authoritative guide provides a comprehensive overview of data warehousing concepts and best practices. It covers topics such as dimensional modeling, ETL (Extract, Transform, Load) processes, and data quality assurance. Whether you are designing a new data warehouse or maintaining an existing one, this book is an essential resource for data management professionals."
+    "description": "La primera edición de 'The Data Warehouse Toolkit' de Ralph Kimball introdujo a la industria en el modelado dimensional y ahora sus libros son considerados las guías más autorizadas en este campo. Esta nueva tercera edición es una biblioteca completa de técnicas de modelado dimensional actualizadas, la colección más completa jamás vista. Cubre nuevos y mejorados patrones de modelado dimensional de esquema estrella, agrega dos nuevos capítulos sobre técnicas de ETL, incluye nuevas y ampliadas matrices de negocios para 12 casos de estudio, y más."
   },
   {
     "title": "Production Kubernetes",
     "author": "Josh Rosso, Rich Lander, Alexander Brand & John Harris",
+    "idioma":"Inglés",
     "category": "Data Engineering",
-    "price": "$ 79.99",
-    "priceOffer": "$19.99",
+    "price": "$189.900",
+    "priceOffer": "$139.900",
     "image":"./images/books/Data-Engineering/Production-Kubernetes.jpeg",
-    "description": "This authoritative guide provides a comprehensive overview of data warehousing concepts and best practices. It covers topics such as dimensional modeling, ETL (Extract, Transform, Load) processes, and data quality assurance. Whether you are designing a new data warehouse or maintaining an existing one, this book is an essential resource for data management professionals."
+    "description": "Kubernetes se ha convertido en el orquestador de contenedores dominante, pero muchas organizaciones que han adoptado recientemente este sistema siguen luchando para ejecutar cargas de trabajo de producción reales. En este libro práctico, cuatro ingenieros de software de VMware comparten sus experiencias conjuntas en la ejecución de Kubernetes en producción y ofrecen información sobre desafíos clave y mejores prácticas. La brillantez de Kubernetes radica en lo configurable y extensible que es el sistema, desde runtimes enchufables hasta integraciones de almacenamiento. Para platform engineers, software developers, infosec, network engineers, storage engineers y otros, este libro examina cómo el camino hacia el éxito con Kubernetes implica una variedad de consideraciones tecnológicas, patrones y abstracciones."
   },
   {
     "title": "Architecting Google Cloud Solutions",
     "author": "Victor Dantas",
+    "idioma":"Inglés",
     "category": "Data Engineering",
-    "price": "$ 79.99",
-    "priceOffer": "$19.99",
+    "price": "$99.900",
+    "priceOffer": "$79.900",
     "image":"./images/books/Data-Engineering/Architecting-Google-Cloud-Solutions.jpeg",
-    "description": "This authoritative guide provides a comprehensive overview of data warehousing concepts and best practices. It covers topics such as dimensional modeling, ETL (Extract, Transform, Load) processes, and data quality assurance. Whether you are designing a new data warehouse or maintaining an existing one, this book is an essential resource for data management professionals."
+    "description": "Aprenderás a planificar y diseñar sistemas de red, cómputo, almacenamiento y big data que incorporen seguridad y cumplimiento desde cero. Los capítulos cubrirán casos de uso simples a complejos para idear soluciones a problemas empresariales, antes de centrarse en cómo aprovechar las capacidades de Plataforma como Servicio (PaaS) y Software como Servicio (SaaS) de Google Cloud para diseñar plataformas modernas sin operaciones. A lo largo de este libro, descubrirás cómo diseñar para la escalabilidad, la resiliencia y la alta disponibilidad. Más adelante, aprenderás a utilizar Google Cloud para diseñar aplicaciones modernas utilizando la arquitectura de microservicios, la automatización y las prácticas de Infraestructura como Código (IaC). Los capítulos finales demuestran cómo aplicar el aprendizaje automático y la inteligencia artificial (IA) para obtener información de tus datos. Por último, descubrirás las mejores prácticas para operar y monitorear tus soluciones en la nube, así como para llevar a cabo la solución de problemas y el aseguramiento de la calidad."
   },
   {
     "title": "Azure Data Factory by Example",
     "author": "Richard Swinbank",
+    "idioma":"Inglés",
     "category": "Data Engineering",
-    "price": "$ 79.99",
-    "priceOffer": "$19.99",
+    "price": "$199.900",
+    "priceOffer": "$139.900",
     "image":"./images/books/Data-Engineering/Azure-Data-Factory-by-Example.jpeg",
-    "description": "This authoritative guide provides a comprehensive overview of data warehousing concepts and best practices. It covers topics such as dimensional modeling, ETL (Extract, Transform, Load) processes, and data quality assurance. Whether you are designing a new data warehouse or maintaining an existing one, this book is an essential resource for data management professionals."
+    "description": "El libro utiliza una serie de tutoriales para que comiences a utilizar ADF de inmediato, presentando y reforzando conceptos de manera natural a medida que los encuentras. Para realizar los ejercicios, necesitarás acceso a una suscripción de Azure y un navegador web compatible con la interfaz de usuario de ADF; los navegadores actualmente compatibles son Microsoft Edge y Google Chrome. Elige una suscripción en la que tengas permisos suficientes para crear y gestionar los diversos recursos de Azure que utilizarás."
   },
    {
-    "title": "Data Preprocessing in Python",
+    "title": "Hands-On Data Preprocessing in Python",
     "author": "Roy Jafari",
+    "idioma":"Inglés",
     "category": "Data Engineering",
-    "price": "$ 79.99",
-    "priceOffer": "$19.99",
+    "price": "$219.900",
+    "priceOffer": "$149.900",
     "image":"./images/books/Data-Engineering/Data-Preprocessing-in-Python.jpeg",
-    "description": "This authoritative guide provides a comprehensive overview of data warehousing concepts and best practices. It covers topics such as dimensional modeling, ETL (Extract, Transform, Load) processes, and data quality assurance. Whether you are designing a new data warehouse or maintaining an existing one, this book is an essential resource for data management professionals."
+    "description": "Este libro está dirigido a analistas, ingenieros de datos junior y senior, profesionales de inteligencia empresarial, estudiantes universitarios de ingeniería y entusiastas de los datos que desean realizar la preparación y limpieza de datos en grandes cantidades de información. No necesitas experiencia previa en la preparación de datos para comenzar con este libro. Sin embargo, se requieren habilidades básicas de programación, como el trabajo con variables, condicionales y bucles, junto con un conocimiento a nivel principiante de Python y experiencia en análisis simple."
   },
   {
     "title": "Designing Data Intensive Applications",
     "author": "Martin Kleppmann",
+    "idioma":"Inglés",
     "category": "Data Management",
-    "price": "$ 39.99",
-    "priceOffer": "$19.99",
+    "price": "$149.900",
+    "priceOffer": "$129.900",
     "image":"./images/books/Data-Management/Designing-Data-Intensive-Applications.jpeg",
-    "description": "This book is a comprehensive guide to Apache Hadoop, an open-source framework for distributed storage and processing of large datasets. It covers topics such as Hadoop architecture, MapReduce programming, and Hadoop ecosystem tools. Whether you are a data engineer or a software developer, this book will help you master the fundamentals of big data processing with Hadoop."
+    "description": "Los datos son el centro de muchos desafíos en el diseño de sistemas hoy en día. Problemas difíciles deben resolverse, como la escalabilidad, la consistencia, la confiabilidad, la eficiencia y la mantenibilidad. Además, tenemos una abrumadora variedad de herramientas, incluyendo bases de datos relacionales, almacenes de datos NoSQL, procesadmiento streaming o batch y message brokers. ¿Cuáles son las elecciones correctas para tu aplicación? ¿Cómo puedes dar sentido a todas estas palabras de moda? En esta guía práctica y completa, el autor Martin Kleppmann te ayuda a navegar por este diverso panorama al examinar los pros y contras de diversas tecnologías para procesar y almacenar datos. El software sigue cambiando, pero los principios fundamentales siguen siendo los mismos. Con este libro, los ingenieros de software y arquitectos aprenderán cómo aplicar esas ideas en la práctica y cómo aprovechar al máximo los datos en las aplicaciones modernas."
   },
   {
     "title": "Dama Dmbok",
-    "author": "....",
+    "author": "DAMA International",
+    "idioma":"Inglés",
     "category": "Data Management",
-    "price": "$89.99",
-    "priceOffer": "$19.99",
+    "price": "$239.900",
+    "priceOffer": "$169.900",
     "image":"./images/books/Data-Management/Dama-Dmbok.jpeg",
-    "description": "This book provides an accessible introduction to data management, covering topics such as data quality, data governance, and best practices in information management."
+    "description": "Las organizaciones de hoy reconocen que la gestión de datos es fundamental para su éxito. Reconocen que los datos tienen valor y desean aprovechar ese valor. A medida que nuestra capacidad y deseo de crear y aprovechar datos ha aumentado, también ha crecido la necesidad de prácticas confiables de gestión de datos. La segunda edición de la Guía de DAMA International sobre Data Management Body of Knowledge (DAMA-DMBOK2) actualiza y complementa el exitoso DMBOK1."
   },
   {
     "title": "Data Science from Scratch",
     "author": "Joel Grus",
+    "idioma":"Inglés",
     "category": "Data Science",
-    "price": "$ 85.99",
-    "priceOffer": "$19.99",
+    "price": "$259.900",
+    "priceOffer": "$179.900",
     "image":"./images/books/Data-Science/Data-Science-from-Scratch.jpeg",
-    "description": "This book focuses on data analysis in the context of life sciences using the R programming language. It covers statistical techniques and data analysis relevant to researchers in biology and genomics."
+    "description": "Para realmente aprender ciencia de datos, no solo debes dominar las herramientas, como las bibliotecas, los frameworks, los módulos y los conjuntos de herramientas de ciencia de datos, sino también comprender las ideas y principios subyacentes. Actualizada para Python 3.6, esta segunda edición de 'Data Science from Scratch' te muestra cómo funcionan estas herramientas y algoritmos al implementarlos desde cero. Si tienes aptitud para las matemáticas y algunas habilidades de programación, el autor Joel Grus te ayudará a sentirte cómodo con las matemáticas y estadísticas en el núcleo de la ciencia de datos y con las habilidades de programación necesarias para comenzar como científico de datos. Repleto de nuevo material sobre aprendizaje profundo, estadísticas y procesamiento de lenguaje natural, este libro actualizado te muestra cómo encontrar las joyas en la actual sobrecarga de datos desordenados."
   },
   {
     "title": "Data Science on AWS",
     "author": "Chris Fregly & Antje Barth",
+    "idioma":"Inglés",
     "category": "Data Science",
-    "price": "$ 80.99",
-    "priceOffer": "$10.99",
+    "price": "$129.900",
+    "priceOffer": "$109.900",
     "image":"./images/books/Data-Science/Data-Science-on-AWS.jpeg",
-    "description": "This book focuses on data analysis in the context of life sciences using the R programming language. It covers statistical techniques and data analysis relevant to researchers in biology and genomics."
+    "description": "Con este libro práctico, los profesionales de inteligencia artificial y aprendizaje automático aprenderán cómo construir y desplegar con éxito proyectos de ciencia de datos en Amazon Web Services. La pila de inteligencia artificial y aprendizaje automático de Amazon unifica la ciencia de datos, la ingeniería de datos y el desarrollo de aplicaciones para ayudar a mejorar tus habilidades. Esta guía te muestra cómo construir y ejecutar flujos de trabajo en la nube, y luego integrar los resultados en aplicaciones en minutos en lugar de días. A lo largo del libro, los autores Chris Fregly y Antje Barth demuestran cómo reducir costos y mejorar el rendimiento."
   },
   {
     "title": "Introducing MLOps",
     "author": "Mark Treveil & the Dataiku Team",
+    "idioma":"Inglés",
     "category": "Data Science",
-    "price": "$ 80.99",
-    "priceOffer": "$10.99",
+    "price": "$ 159.900",
+    "priceOffer": "$119.900",
     "image":"./images/books/Data-Science/Introducing-MLOps.jpeg",
-    "description": "This book focuses on data analysis in the context of life sciences using the R programming language. It covers statistical techniques and data analysis relevant to researchers in biology and genomics."
+    "description": "Más de la mitad de los modelos de análisis y aprendizaje automático (ML) creados por las organizaciones hoy en día nunca llegan a producción. Algunos de los desafíos y barreras para la operacionalización son técnicos, pero otros son organizativos. De cualquier manera, la conclusión es que los modelos que no están en producción no pueden generar impacto comercial.Este libro presenta los conceptos clave de MLOps para ayudar a los científicos de datos y a los ingenieros de aplicaciones no solo a poner en funcionamiento modelos de ML para impulsar cambios comerciales reales, sino también a mantener y mejorar esos modelos a lo largo del tiempo. A través de lecciones basadas en numerosas aplicaciones MLOps en todo el mundo, nueve expertos en aprendizaje automático brindan información sobre los cinco pasos del ciclo de vida del modelo (construcción, preproducción, implementación, monitoreo y gobernanza) y descubren cómo se pueden infundir procesos MLOps sólidos en todo el mundo."
   },
   {
     "title": "Engineering MLOps",
     "author": "Emmanuel Raj",
+    "idioma":"Inglés",
     "category": "Data Science",
-    "price": "$ 80.99",
-    "priceOffer": "$10.99",
+    "price": "$209.900",
+    "priceOffer": "$149.900",
     "image":"./images/books/Data-Science/Engineering-MLOps.jpeg",
-    "description": "This book focuses on data analysis in the context of life sciences using the R programming language. It covers statistical techniques and data analysis relevant to researchers in biology and genomics."
-  },
-  {
-    "title": "Introduction to Probability for Data Science",
-    "author": "Stanley H. Chan",
-    "category": "Data Science",
-    "price": "$ 80.99",
-    "priceOffer": "$10.99",
-    "image":"./images/books/Data-Science/Introduction-to-Probability-for-Data-Science.jpeg",
-    "description": "This book focuses on data analysis in the context of life sciences using the R programming language. It covers statistical techniques and data analysis relevant to researchers in biology and genomics."
+    "description": "Engineering MLps presenta información completa sobre MLOps junto con ejemplos del mundo real en Azure para ayudarlo a escribir programas, entrenar modelos de ML robustos y escalables y crear canalizaciones de ML para entrenar e implementar modelos de forma segura en producción. El libro comienza familiarizándolo con el flujo de trabajo de MLOps para que pueda comenzar a escribir programas para entrenar modelos de ML. Luego, pasará a explorar opciones para serializar y empaquetar modelos de aprendizaje automático después del entrenamiento para implementarlos y facilitar la inferencia de aprendizaje automático, la interoperabilidad de modelos y la trazabilidad de modelos de un extremo a otro. Aprenderá cómo crear pipelines de ML, pipelines de integración continua y entrega continua (CI/CD), y a monitorear pipelines para construir, implementar, monitorear y gobernar sistemáticamente soluciones de ML para empresas e industrias. Finalmente, aplicará los conocimientos adquiridos para crear proyectos del mundo real."
   }
 ]
