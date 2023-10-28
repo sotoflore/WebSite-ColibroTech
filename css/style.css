@@ -41,7 +41,7 @@ body{
     url("../images/background-section-hero.jpg")
     fixed center 0 / cover no-repeat;
 }
-.studio-tech .fw-bold { 
+.studio-tech .bold { 
     text-shadow: 2px 2px 0 #161616, 4px 4px 0 #9c9c9c;
 }
 .action-buttons .link {
@@ -187,6 +187,9 @@ body{
     }
     #category .col-12 {
         margin-top: 1rem;
+    }
+    .contact-email{
+        font-size: .82rem;
     }
     .contact-information{
         margin: 0;
